@@ -7,7 +7,6 @@ from hardcode import HARDCODED_STREAMS
 
 #HEADER_REFERER = 'http://www.teledunet.com/'
 HEADER_REFERER = 'http://www.teledunet.com/list_chaines.php'
-PLUGIN_PATH='C:/Users/khlif.bassem/AppData/Roaming/XBMC/addons/plugin.video.teledunet/resources/lib/teledunet/'
 HEADER_HOST = 'www.teledunet.com'
 HEADER_USER_AGENT = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
 TELEDUNET_TIMEPLAYER_URL = 'http://www.teledunet.com/player/?channel=%s'
